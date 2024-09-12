@@ -26,6 +26,8 @@ https://github.com/Envoy-VC/awesome-badges
 --> 
 <a href="https://bird-pocket-a54.notion.site/Project-326f4413658443899a3eec03417f4787" target="_blank"><img src="https://img.shields.io/badge/PM_히스토리-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
+<img=src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+
 <!-- 프로필 참고 사이스
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
 -->
