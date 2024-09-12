@@ -29,8 +29,13 @@ Good day! I'm Jonghyeon who is interested in Data Science in South Korea.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </div>
 
-## 🌱Studying ...
-  <img src="https://img.shields.io/badge/Figma-543DE0?style=flat-square&logo=figma&logoColor=white">
+## 🌱Studying
+<img src="https://img.shields.io/badge/Figma-543DE0?style=flat-square&logo=figma&logoColor=white">
+
+## 📬Contact
+<a href="mailto:kwhdgus62@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 
 <!--
