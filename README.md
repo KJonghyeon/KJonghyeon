@@ -30,6 +30,8 @@ https://github.com/Envoy-VC/awesome-badges
     <a href="https://bird-pocket-a54.notion.site/Project-326f4413658443899a3eec03417f4787" target="_blank">
     <img src="https://img.shields.io/badge/PM_히스토리-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     </a>
+  </div>
+  <div align="center">
     <img=src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   </div>
   
